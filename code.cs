@@ -1,1 +1,2 @@
-Console.Write("I like tomato, because Im tomato");
+Console.WriteLine("Work ends");
+Console>ReadKey();
