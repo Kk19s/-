@@ -1,1 +1,1 @@
-Console.Write("Hello");
+Console.Write("I like tomato, because Im tomato");
